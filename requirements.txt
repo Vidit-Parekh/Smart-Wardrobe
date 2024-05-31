@@ -1,0 +1,9 @@
+pandas
+tqdm
+pandas
+tensorflow
+pickle5
+sklearn
+numpy
+streamlit
+pil
