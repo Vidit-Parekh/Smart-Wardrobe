@@ -6,4 +6,4 @@ pickle5
 scikit-learn
 numpy
 streamlit
-pil
+pillow
