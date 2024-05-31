@@ -2,7 +2,7 @@ pandas
 tqdm
 pandas
 tensorflow
-pickle5
+pickle4
 scikit-learn
 numpy
 streamlit
